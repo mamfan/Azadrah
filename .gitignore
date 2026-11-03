@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset store tools and generated packages
+[Aa]sset[Ss]tore[Tt]ools*/
+[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools*/
+
+# IDE and editor-generated files
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Build and crash artifacts
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.unitypackage.tmp
+*.log
+*.stacktrace
+crashlytics-build.properties
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
